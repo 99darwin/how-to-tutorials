@@ -182,7 +182,7 @@ Once you've ascertained the IP enter it into your browser's address bar
 
 You should see the default Nginx page
 
-![default_page](/content/images/2018/05/default_page.png)
+![default_page](https://www.dropbox.com/s/x4qghki6ffzzv4j/default_page.webp?dl=0)
 
 # Step 6: Secure Nginx with Let's Encrypt
 
