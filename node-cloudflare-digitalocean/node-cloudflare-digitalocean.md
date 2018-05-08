@@ -3,7 +3,7 @@
 This tutorial assumes that you already have a domain, a web app you'd like to host uploaded to GitHub, some basic knowledge of how to setup a Digital Ocean droplet, and are using Cloudflare DNS. 
 
 **Example DNS settings:**
-![Screenshot-2018-05-07-15.58.47_preview](/content/images/2018/05/Screenshot-2018-05-07-15.58.47_preview.png)
+![example dns settings](/settings.png)
 
 *Note: Your domain registrar will have instructions on how to point your DNS toward Cloudflare. The free Cloudflare subscription **will** work for this tutorial.*
 
@@ -182,7 +182,7 @@ Once you've ascertained the IP enter it into your browser's address bar
 
 You should see the default Nginx page
 
-![default_page](https://www.dropbox.com/s/x4qghki6ffzzv4j/default_page.webp?dl=0)
+![nginx default page](/nginx-default.jpg)
 
 # Step 6: Secure Nginx with Let's Encrypt
 
